@@ -209,7 +209,6 @@
         </div>
         <div class="dp-down" id="dpdown">
           <a href="updaterest">profile</a>
-          <a href="#">darkmode</a>
           <a href="restlogout">Logout</a>
         </div>
       </div>

@@ -19,7 +19,7 @@
                 <img src="menu.png" alt="" id="btn" height="25">
             </div>
             <div class="logo">
-               <h1>have it..</h1>
+               <h1>have <span id='bs'>it..</span> </h1>
             </div>
             <div class="nav-container">
                 <a href="reshome" class="nav-inside ">ADD RESTAURANT</a>
@@ -246,6 +246,9 @@ nav {
 .bootstrap-btn:focus,
 .bootstrap-btn.focus {
   box-shadow: 0 0 0 0.2rem rgba(255, 85, 0, 0.304);
+}
+#bs{
+color: orangered;
 }
 </style>
 
