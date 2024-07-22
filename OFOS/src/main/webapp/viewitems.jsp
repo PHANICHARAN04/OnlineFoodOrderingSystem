@@ -25,7 +25,7 @@
       <div class="card-content">
           <div>
               <h2>${itm.name}</h2>
-              <h3>Price: $10.99 </h3>
+              <h3>${itm.price} /- </h3>
               <h3>Rating: 4.5</h3>
           </div>
       </div>
